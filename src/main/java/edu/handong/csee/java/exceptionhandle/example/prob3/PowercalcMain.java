@@ -19,7 +19,7 @@ public class PowercalcMain { //declare PowercalcMain class
 			try {						//try statement to use Exception
 				System.out.println(my_calculator.power(n, p)); //call the method power and print on console
 			}catch(Exception e) {		//catch statement receiving the instance
-				System.out.println(e);		//
+				System.out.println(e);		//print the statement of Exception instance
 			}
 		}
 
