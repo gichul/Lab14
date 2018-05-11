@@ -3,7 +3,7 @@ package edu.handong.csee.java.exceptionhandle.example.prob1; //package name
 import java.util.Scanner;	//import Scanner to use Scanner class
 import java.util.Random;	//import Random to use Random class 
 
-public class SpeedLim_main {	//declare main class
+public class SoeedMain {	//declare main class
 
 	public static void main(String[] args) {		//declare main method
 	
